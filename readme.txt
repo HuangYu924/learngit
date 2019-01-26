@@ -1,7 +1,7 @@
 hello
 python
 hello
-java
+JAVA
 hello
 C++
 hello
